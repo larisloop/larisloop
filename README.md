@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larisloop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisloop&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
+ 
   <div style="display: inline_block"><br>
    <img align="center" alt="Larissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="right" alt="laris" height="150" style="border-radius:50px;" src="https://c.tenor.com/W32JBtWNIiUAAAAd/baby-yoda-drink.gif" >
