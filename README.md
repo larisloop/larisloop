@@ -2,8 +2,8 @@
 ##
 <div align="center">
   <a href="https://github.com/larisloop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larisloop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisloop&layout=compact&langs_count=7&theme=nightowl""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larisloop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisloop&layout=compact&langs_count=7&theme=nightowl""/>
 </div>
  
   <div style="display: inline_block"><br>
